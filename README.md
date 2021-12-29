@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=%23000000&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Sunkyung)](https://git.io/typing-svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcelline1637%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **celline1637/celline1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
