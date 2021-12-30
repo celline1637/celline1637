@@ -1,4 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=%23000000&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Sunkyung)](https://git.io/typing-svg)
+
 
 **Languages and Tools:**  
 
@@ -8,7 +10,9 @@
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
+<br/>
 
+**Github Stats:**  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=celline1637&show_icons=true&include_all_commits=true&theme=vue&bg_color=none&hide_border=true" alt="celline1637's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celline1637&layout=compact&theme=vue&bg_color=none&hide_border=true" /></a> |
 | ------------- | ------------- |
 
